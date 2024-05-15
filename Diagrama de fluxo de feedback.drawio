@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T01:07:20.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.4.0" etag="cnPlwtdXNjJEXdmZ84QB" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T01:07:28.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iCYxL_28lqVtKwFsEkVS" version="24.4.0" type="github">
   <diagram name="Página-1" id="7hCMsQo47JFOW41dOap0">
-    <mxGraphModel>
+    <mxGraphModel dx="-2018" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvF4jVumnCcKOyMKIDYV-2" target="YvF4jVumnCcKOyMKIDYV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-2" value="Feedback" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3381.75" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-3" value="Salva no banco na tabela de feedback o comentario e o cliente&amp;nbsp; anonimo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3601.75" y="172.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-4" value="Salva no banco na tabela de feedback o comentario e o cliente&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="3381.75" y="355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvF4jVumnCcKOyMKIDYV-7" target="YvF4jVumnCcKOyMKIDYV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YvF4jVumnCcKOyMKIDYV-7" target="YvF4jVumnCcKOyMKIDYV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-7" value="Verifica se o cliente esta cadastrado&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="1">
+          <mxGeometry x="3353" y="112.5" width="177.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="YvF4jVumnCcKOyMKIDYV-8" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3541.75" y="167.5" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
